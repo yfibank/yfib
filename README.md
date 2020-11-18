@@ -1,0 +1,2 @@
+# yfib
+YFIB is the abbreviation of YFI Bank. YFIB’s success is due to YFI’s core technology. The development core team comes from the United States, China, and South Korea. The YFI technology is independently forked and upgraded to a cluster interactive intelligent aggregator. The platform aggregates multiple protocols to Realize the interaction of assets on different decentralized liquidity platforms.
