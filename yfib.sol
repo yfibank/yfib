@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at Etherscan.io on 2020-10-10
+ *Submitted for verification at Etherscan.io on 2020-11-18
  * http://erc20f.com
 */
 
